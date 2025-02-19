@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350064684894",
+    "project_id": "doni-ed109",
+    "storage_bucket": "doni-ed109.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350064684894:android:ffb6d4a3dbd6df454fa9cf",
+        "android_client_info": {
+          "package_name": "com.anonymous.Doni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR13Rn1POLLrauVJ3bBOCe9atM_Gw5FWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
